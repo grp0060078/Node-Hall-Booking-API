@@ -1,0 +1,29 @@
+{
+  "name": "nodejs-hall-booking-api",
+  "version": "1.0.0",
+  "description": "hall booking api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grp0060078/Node-Hall-Booking-API.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grp0060078/Node-Hall-Booking-API/issues"
+  },
+  "homepage": "https://github.com/grp0060078/Node-Hall-Booking-API#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mongoose": "^8.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
